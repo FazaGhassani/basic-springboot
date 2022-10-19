@@ -1,0 +1,123 @@
+2022-10-19 11:05:14.431  INFO 23444 --- [main] i.c.b.s.H.HelloWorldApplication          : Starting HelloWorldApplication using Java 17.0.4.1 on P090WFA067650 with PID 23444 (D:\Training\angular springboot\Day 3 Files\HelloWorld\target\classes started by U067650 in D:\Training\angular springboot\Day 3 Files\HelloWorld)
+2022-10-19 11:05:14.435  INFO 23444 --- [main] i.c.b.s.H.HelloWorldApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-10-19 11:05:15.292  INFO 23444 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 11:05:15.301  INFO 23444 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 11:05:15.303  INFO 23444 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 11:05:15.420  INFO 23444 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 11:05:15.421  INFO 23444 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 927 ms
+2022-10-19 11:05:15.760  INFO 23444 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-19 11:05:15.772  INFO 23444 --- [main] i.c.b.s.H.HelloWorldApplication          : Started HelloWorldApplication in 1.769 seconds (JVM running for 2.584)
+2022-10-19 11:12:00.887  INFO 9332 --- [main] i.c.b.s.H.HelloWorldApplication          : Starting HelloWorldApplication using Java 17.0.4.1 on P090WFA067650 with PID 9332 (D:\Training\angular springboot\Day 3 Files\HelloWorld\target\classes started by U067650 in D:\Training\angular springboot\Day 3 Files\HelloWorld)
+2022-10-19 11:12:00.892  INFO 9332 --- [main] i.c.b.s.H.HelloWorldApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-10-19 11:12:01.712  INFO 9332 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 11:12:01.720  INFO 9332 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 11:12:01.721  INFO 9332 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 11:12:01.837  INFO 9332 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 11:12:01.837  INFO 9332 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 886 ms
+2022-10-19 11:12:02.214  INFO 9332 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-19 11:12:02.225  INFO 9332 --- [main] i.c.b.s.H.HelloWorldApplication          : Started HelloWorldApplication in 1.802 seconds (JVM running for 2.528)
+2022-10-19 11:16:06.354  INFO 2052 --- [main] i.c.b.s.H.HelloWorldApplicationTests     : Starting HelloWorldApplicationTests using Java 17.0.4.1 on P090WFA067650 with PID 2052 (started by U067650 in D:\Training\angular springboot\Day 3 Files\HelloWorld)
+2022-10-19 11:16:06.356  INFO 2052 --- [main] i.c.b.s.H.HelloWorldApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2022-10-19 11:16:08.333  INFO 2052 --- [main] i.c.b.s.H.HelloWorldApplicationTests     : Started HelloWorldApplicationTests in 2.454 seconds (JVM running for 3.693)
+2022-10-19 11:17:13.812  INFO 27320 --- [main] i.c.b.s.H.HelloWorldApplication          : Starting HelloWorldApplication using Java 17.0.4.1 on P090WFA067650 with PID 27320 (D:\Training\angular springboot\Day 3 Files\HelloWorld\target\classes started by U067650 in D:\Training\angular springboot\Day 3 Files\HelloWorld)
+2022-10-19 11:17:13.815  INFO 27320 --- [main] i.c.b.s.H.HelloWorldApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-10-19 11:17:14.604  INFO 27320 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 11:17:14.612  INFO 27320 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 11:17:14.613  INFO 27320 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 11:17:14.723  INFO 27320 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 11:17:14.723  INFO 27320 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 853 ms
+2022-10-19 11:17:15.031  INFO 27320 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-19 11:17:15.042  INFO 27320 --- [main] i.c.b.s.H.HelloWorldApplication          : Started HelloWorldApplication in 1.649 seconds (JVM running for 2.394)
+2022-10-19 11:17:18.351  INFO 27320 --- [http-nio-8080-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-19 11:17:18.352  INFO 27320 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-10-19 11:17:18.352  INFO 27320 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2022-10-19 11:17:18.375  INFO 27320 --- [http-nio-8080-exec-3] i.c.b.s.H.controller.HelloController     : Calling Get Method /api
+2022-10-19 11:17:28.490  INFO 27320 --- [http-nio-8080-exec-9] i.c.b.s.H.controller.HelloController     : Calling Get Method /api
+2022-10-19 11:26:00.229  INFO 21300 --- [main] i.c.b.s.H.HelloWorldApplicationTests     : Starting HelloWorldApplicationTests using Java 17.0.4.1 on P090WFA067650 with PID 21300 (started by U067650 in D:\Training\angular springboot\Day 3 Files\HelloWorld)
+2022-10-19 11:26:00.231  INFO 21300 --- [main] i.c.b.s.H.HelloWorldApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2022-10-19 11:26:02.280  INFO 21300 --- [main] i.c.b.s.H.HelloWorldApplicationTests     : Started HelloWorldApplicationTests in 2.548 seconds (JVM running for 3.8)
+2022-10-19 11:27:16.193  INFO 26716 --- [main] i.c.b.s.H.HelloWorldApplication          : Starting HelloWorldApplication using Java 17.0.4.1 on P090WFA067650 with PID 26716 (D:\Training\angular springboot\Day 3 Files\HelloWorld\target\classes started by U067650 in D:\Training\angular springboot\Day 3 Files\HelloWorld)
+2022-10-19 11:27:16.197  INFO 26716 --- [main] i.c.b.s.H.HelloWorldApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-10-19 11:27:17.024  INFO 26716 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 11:27:17.033  INFO 26716 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 11:27:17.034  INFO 26716 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 11:27:17.147  INFO 26716 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 11:27:17.148  INFO 26716 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 897 ms
+2022-10-19 11:27:17.471  INFO 26716 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-19 11:27:17.481  INFO 26716 --- [main] i.c.b.s.H.HelloWorldApplication          : Started HelloWorldApplication in 1.711 seconds (JVM running for 2.455)
+2022-10-19 11:27:34.800  INFO 26716 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-19 11:27:34.801  INFO 26716 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-10-19 11:27:34.802  INFO 26716 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-10-19 11:30:31.297  INFO 1492 --- [main] i.c.b.s.H.HelloWorldApplication          : Starting HelloWorldApplication using Java 17.0.4.1 on P090WFA067650 with PID 1492 (D:\Training\angular springboot\Day 3 Files\HelloWorld\target\classes started by U067650 in D:\Training\angular springboot\Day 3 Files\HelloWorld)
+2022-10-19 11:30:31.301  INFO 1492 --- [main] i.c.b.s.H.HelloWorldApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-10-19 11:30:32.130  INFO 1492 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 11:30:32.138  INFO 1492 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 11:30:32.138  INFO 1492 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 11:30:32.256  INFO 1492 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 11:30:32.257  INFO 1492 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 899 ms
+2022-10-19 11:30:32.569  INFO 1492 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-10-19 11:30:32.579  INFO 1492 --- [main] i.c.b.s.H.HelloWorldApplication          : Started HelloWorldApplication in 1.696 seconds (JVM running for 2.447)
+2022-10-19 11:34:10.708  INFO 12020 --- [main] i.c.b.s.H.HelloWorldApplication          : Starting HelloWorldApplication using Java 17.0.4.1 on P090WFA067650 with PID 12020 (D:\Training\angular springboot\Day 3 Files\HelloWorld\target\classes started by U067650 in D:\Training\angular springboot\Day 3 Files\HelloWorld)
+2022-10-19 11:34:10.714  INFO 12020 --- [main] i.c.b.s.H.HelloWorldApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-10-19 11:34:12.427  INFO 12020 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 11:34:12.439  INFO 12020 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 11:34:12.439  INFO 12020 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 11:34:12.592  INFO 12020 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 11:34:12.592  INFO 12020 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1799 ms
+2022-10-19 11:34:13.094  WARN 12020 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2022-10-19 11:34:13.099  INFO 12020 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-10-19 11:34:13.116  INFO 12020 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-10-19 11:34:13.140 ERROR 12020 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2022-10-19 11:34:52.380  INFO 32872 --- [main] i.c.b.s.H.HelloWorldApplication          : Starting HelloWorldApplication using Java 17.0.4.1 on P090WFA067650 with PID 32872 (D:\Training\angular springboot\Day 3 Files\HelloWorld\target\classes started by U067650 in D:\Training\angular springboot\Day 3 Files\HelloWorld)
+2022-10-19 11:34:52.387  INFO 32872 --- [main] i.c.b.s.H.HelloWorldApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-10-19 11:34:53.843  INFO 32872 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-10-19 11:34:53.855  INFO 32872 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 11:34:53.856  INFO 32872 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 11:34:53.994  INFO 32872 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 11:34:53.994  INFO 32872 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1536 ms
+2022-10-19 11:34:54.542  WARN 32872 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2022-10-19 11:34:54.548  INFO 32872 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-10-19 11:34:54.564  INFO 32872 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-10-19 11:34:54.587 ERROR 32872 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2022-10-19 11:35:26.557  INFO 13596 --- [main] i.c.b.s.H.HelloWorldApplication          : Starting HelloWorldApplication using Java 17.0.4.1 on P090WFA067650 with PID 13596 (D:\Training\angular springboot\Day 3 Files\HelloWorld\target\classes started by U067650 in D:\Training\angular springboot\Day 3 Files\HelloWorld)
+2022-10-19 11:35:26.562  INFO 13596 --- [main] i.c.b.s.H.HelloWorldApplication          : The following 1 profile is active: "prod"
+2022-10-19 11:35:28.026  INFO 13596 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
+2022-10-19 11:35:28.038  INFO 13596 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-19 11:35:28.039  INFO 13596 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-10-19 11:35:28.186  INFO 13596 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-19 11:35:28.186  INFO 13596 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1540 ms
+2022-10-19 11:35:28.776  INFO 13596 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path ''
+2022-10-19 11:35:28.790  INFO 13596 --- [main] i.c.b.s.H.HelloWorldApplication          : Started HelloWorldApplication in 2.885 seconds (JVM running for 3.436)
+2022-10-19 11:36:23.314  INFO 13596 --- [http-nio-9999-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-19 11:36:23.314  INFO 13596 --- [http-nio-9999-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-10-19 11:36:23.315  INFO 13596 --- [http-nio-9999-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
