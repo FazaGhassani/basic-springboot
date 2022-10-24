@@ -1,11 +1,27 @@
 package id.co.bca.springtutorial.HelloWorld.model;
 
-import java.util.Date;
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 
+import javax.persistence.*;
+
+@Entity
+@Table(name="employee")
 public class EmployeeModel {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name="id")
     private int id;
+    @Column(name="first_name")
     private String firstName;
+    @Column(name="last_name")
     private String lastName;
+    @Column(name="email")
+    private String email;
+
+    @ManyToOne
+    @JoinColumn(name = "departement_id")
+    @JsonManagedReference
+    private Departement departement;
 
     public int getId() {
         return id;
@@ -39,7 +55,12 @@ public class EmployeeModel {
         this.email = email;
     }
 
-    private String email;
 
+    public void setDepartement(Departement departement) {
+        this.departement = departement;
+    }
 
+    public Departement getDepartement() {
+        return departement;
+    }
 }
