@@ -1,5 +1,6 @@
 package id.co.bca.springtutorial.HelloWorld.model;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 
 import javax.persistence.*;
@@ -20,7 +21,7 @@ public class EmployeeModel {
 
     @ManyToOne
     @JoinColumn(name = "departement_id")
-    @JsonManagedReference
+    @JsonBackReference
     private Departement departement;
 
     public int getId() {

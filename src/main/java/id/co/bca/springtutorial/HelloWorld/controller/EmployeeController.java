@@ -29,7 +29,7 @@ public class EmployeeController {
     @Autowired
     private DepartementAndEmployeeService departementAndEmployeeService;
 
-    @GetMapping("/add")
+    @GetMapping("/add") 
     public String addEmployee(@RequestParam("firstname") String firstname,
                               @RequestParam("lastname") String lastname,
                               @RequestParam("email") String email){
