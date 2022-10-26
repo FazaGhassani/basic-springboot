@@ -4,6 +4,7 @@ import id.co.bca.springtutorial.HelloWorld.model.EmployeeModel;
 import id.co.bca.springtutorial.HelloWorld.repository.EmployeeSDJRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -18,6 +19,7 @@ public class RestEmployeeController {
     //contoh disini juga ga ada service karena tidak ada custom query / custom code
     //kalau rest API cuman pake Model (employeemodel), EmployeeSDJRepository (Repository), dan controller (RestEmployeeController)
 
+    @PreAuthorize("hasAnyAuthority('admin')")
     @GetMapping("/employeesTest")
     @ResponseStatus(HttpStatus.OK)
     public String findallT() {
