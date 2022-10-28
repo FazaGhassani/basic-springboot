@@ -13,8 +13,6 @@ import java.util.List;
 public class EmployeeServiceJPA implements IEmployeeService{
     @Autowired
     EmployeeSDJRepository sdjRepository;
-
-
     @Override
     public void insert(EmployeeModel employee) {
         sdjRepository.save(employee);

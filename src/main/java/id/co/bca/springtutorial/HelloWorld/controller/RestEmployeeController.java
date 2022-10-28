@@ -18,7 +18,6 @@ public class RestEmployeeController {
     //disini ga pake EmployeeRepoHybernate, EmployeeRepoImplWithJDBCTemplate dan RmployeeRepoJDBCBasic
     //contoh disini juga ga ada service karena tidak ada custom query / custom code
     //kalau rest API cuman pake Model (employeemodel), EmployeeSDJRepository (Repository), dan controller (RestEmployeeController)
-
     @PreAuthorize("hasAnyAuthority('admin')")
     @GetMapping("/employeesTest")
     @ResponseStatus(HttpStatus.OK)
